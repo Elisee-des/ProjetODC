@@ -1,0 +1,7 @@
+After clone
+Run your application:
+    1 - Go to the project directory cd formation-pdo14
+    2 - run composer install
+    3 - Install Yarn and run yarn install
+    4 - Start the development server: yarn run encore dev --watch
+    4 - start symfony : symfony server:start
